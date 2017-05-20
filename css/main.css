@@ -1,0 +1,28 @@
+
+body {
+	text-align: center;
+}
+
+
+
+ul, li {
+	list-style: none;
+
+}
+
+
+#name {
+	width: 400px;
+}
+
+ input, button {
+ 	margin-top: 25px;
+ }
+
+
+#todoInput {
+	height: 200px;
+	width: 400px;
+	font-size: 100px,
+
+}
